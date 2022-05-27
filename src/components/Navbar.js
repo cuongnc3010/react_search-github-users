@@ -25,7 +25,7 @@ const Navbar = () => {
             logout({ returnTo: window.location.origin })
           }}
         >
-          log out
+          logout
         </button>
       }
     </Wrapper>
